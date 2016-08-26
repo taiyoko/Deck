@@ -1,7 +1,5 @@
 /*
  * Sarah Overlander
- * CSC 3410 Fall 2015
- * Assignment 1
  */
 package deck;
 
